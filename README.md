@@ -1,4 +1,4 @@
-# Electricity-Billing-App
+
 # Electricity Billing System
 
 ## Overview
@@ -37,7 +37,7 @@ This project is an electricity billing system designed to streamline the process
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/electricity-billing-system.git
+    git clone https://github.com/PritishDoc/electricity-billing-system.git
     cd electricity-billing-system
     ```
 
@@ -80,4 +80,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**Note**: Please replace `https://github.com/your-username/electricity-billing-system.git` with the actual URL of your GitHub repository.
