@@ -64,6 +64,7 @@ This project is an electricity billing system designed to streamline the process
 2. **Manage Users**: Add, update, or delete user data.
 3. **View Payments**: Access and manage payment history.
 4. **Manage Staff**: Handle staff information and histories.
+![abc5](https://github.com/PritishDoc/Electricity-Billing-App/assets/141579651/c5758251-17a4-4228-9667-b7d7b03cd62d)
 
 ## Contributing
 
