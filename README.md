@@ -1,7 +1,10 @@
 
 # Electricity Billing System
-
+![abc6](https://github.com/PritishDoc/Electricity-Billing-App/assets/141579651/72e72c93-a409-4d2e-ba44-cda5f15b1b7a)
 ## Overview
+
+![abc3](https://github.com/PritishDoc/Electricity-Billing-App/assets/141579651/ef626f88-d57b-458a-80c2-4f52e32bf9f0)
+![icon2](https://github.com/PritishDoc/Electricity-Billing-App/assets/141579651/73477920-ab49-4ab2-bbfa-1958fe8ec844)
 
 This project is an electricity billing system designed to streamline the process of tracking electricity usage and generating bills for users. The system features both client and admin sides, allowing users to check their usage history, payment history, and personal details, while giving administrators full control over the data. The system is developed using Java frameworks including AWT, Swing, JavaFX, and JDBC for the backend.
 
@@ -13,6 +16,8 @@ This project is an electricity billing system designed to streamline the process
 - **Usage History**: Users can view their past electricity usage.
 - **Payment History**: Users can check how much they have paid in the past.
 - **Personal Details**: Users can view and update their personal information.
+  
+![abc2](https://github.com/PritishDoc/Electricity-Billing-App/assets/141579651/3c7a0bd9-6920-4274-bc41-c43f9b2b1cc5)
 
 ### Admin Side
 - **Full Data Access**: Administrators have complete control over the data.
